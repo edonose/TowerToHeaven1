@@ -84,7 +84,7 @@ var platforms = [
   { x: Math.random() * 300, y: canvas.height - 5800, width: 60, height: 20 },
   { x: Math.random() * 300, y: canvas.height - 6000, width: 60, height: 20 },
   { x: Math.random() * 300, y: canvas.height - 6200, width: 60, height: 20 },
-  { x: Math.random() * 300, y: canvas.height - 6400, width: 60, height: 20 },
+  { x: 150, y: canvas.height - 6400, width: 60, height: 20 },
   { x: 400, y: canvas.height - 6500, width: 1000, height: 20 },
   { x: 0, y: canvas.height - 6800, width: 300, height: 20 },
 ];
